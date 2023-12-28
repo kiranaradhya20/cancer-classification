@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/cancer-classification/mlruns/0/a859a471c67e4a478a83c44a8e0503d4/artifacts
+end_time: 1703731030056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a859a471c67e4a478a83c44a8e0503d4
+run_name: capable-jay-19
+run_uuid: a859a471c67e4a478a83c44a8e0503d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703731021785
+status: 3
+tags: []
+user_id: Kiran Aradhya
